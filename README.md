@@ -1,3 +1,9 @@
-### Particle Simulator
+## Particle Simulator
 
-To run this project, clone it or download it into a folder called ParticleSimulator, then open and run the file ParticleSimulator.pde with Processing.
+![Gameplay image](/pics/game.png)
+
+### Installation
+* Clone the repository: `git clone https://github.com/TheAvidDev/particle-sim`
+* Rename the root folder from `particle-sim` to `ParticleSimulator`
+* Download [Processing](https://processing.org/)
+* Open `ParticleSimulator.pde` and press the run button in Processing
